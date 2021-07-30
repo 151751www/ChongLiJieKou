@@ -1,0 +1,11 @@
+server:
+  port: 8880
+
+spring:
+  http:
+    multipart:
+      max-file-size: 2GB
+      max-request-size: 2GB
+
+
+
